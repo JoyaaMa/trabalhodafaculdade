@@ -1,9 +1,8 @@
-//ADS- Turma B - Joyce Maria Pereira Araujo - 01696139
 
 #include <stdio.h>
 #include "mybiblioteca.h"
 
-//FunÁ„o principal do programa
+//Fun√ß√£o principal do programa
 
 int main(){ 
         int i = 1;
@@ -41,7 +40,7 @@ int main(){
 	        	printf("...Saindo do programa...");
 	        	break;
         	default:
-	    	printf("OpÁ„o inv·lida");
+	    	printf("Op√ß√£o inv√°lida");
 	        	break;
       	} 
  	    if(opcao != 6){
@@ -56,7 +55,7 @@ int main(){
 				 } else if(rep == 0){
 					printf("...Saindo do programa...");
 				 } else { 
-				 	printf("OpÁ„o inv·lida");
+				 	printf("Op√ß√£o inv√°lida");
 				 }
         }
       	
